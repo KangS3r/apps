@@ -1,9 +1,9 @@
 {  
   "app": {
     "title": "LeoVegas",
-    "imagePath": "https://raw.githubusercontent.com/KangS3r/apps/master/currency-converter.jpg",
-    "linkPath": "",
-    "linkAction": "#start",
+    "imagePath": "https://raw.githubusercontent.com/KangS3r/apps/master/LeoVegas.jpg",
+    "linkPath": "http://ads.leovegas.com/redirect.aspx?pid=3595741&bid=14957&subid=a_1240",
+    "linkAction": "#web",
     "afid": "94Ajm8cbSxaHQfxuWUQ74C"
   }
 }
